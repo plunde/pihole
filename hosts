@@ -1,6 +1,6 @@
-0.0.0.0 collector.schibsted.io
-127.0.0.1 cookie.norstatsurveys.com
-127.0.0.1 sb.scorecardresearch.com
-0.0.0.0 adnxs.com
-0.0.0.0 adform.net
-0.0.0.0 s1.adform.net
+collector.schibsted.io
+cookie.norstatsurveys.com
+sb.scorecardresearch.com
+adnxs.com
+adform.net
+s1.adform.net
